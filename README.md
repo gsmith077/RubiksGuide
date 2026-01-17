@@ -84,11 +84,11 @@ My dad's definition of solved was:
 - 3 Edges are correct (positioning and orientation)
 - Remaining edge doesn't matter; this is a keyhole for later use.
 
-![Valid First Side Solved](./images/first_layer_keyhole.png.png)
+![Valid First Side Solved](./images/first_layer_keyhole.png)
 
 I later consolidated the steps by only solving the corners:
 
-![Corners only on Face 1](./images/first_layer_corners.png.png)
+![Corners only on Face 1](./images/first_layer_corners.png)
 
 ## II. Position opposite corners
 
