@@ -282,7 +282,7 @@ as an example.
   - No Alg; Intuitive. Use the `S` layer and `U/U'` to get your opposing faces
     solved.
 - PFE (Position Final Edges)
-  - Small Hill: ``M' U2 M U2``
+  - Small Hill: `M' U2 M U2`
   - Feel free to rotate `x'` freely. `y2` and `z2` are also fine.
   - This is a position only.
 - OFE (Orient Final Edges)
